@@ -1,4 +1,4 @@
-# Satr Projects sql 101 - 102 - 103
+# Satr Project sql 101
 
 
 ## مشروع sql 101
